@@ -6,9 +6,11 @@
 - sklearn-crfsuite==0.3.6
 - openpyxl==3.0.9
 - torch==1.0.1.post2
-> conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ 
-> conda install sklearn-crfsuite-0.3.6 
-> conda install openpyxl-3.0.9
+```
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ 
+conda install sklearn-crfsuite-0.3.6 
+conda install openpyxl-3.0.9
+```
 ## 2.数据集介绍
 ### 2.1 数据集来源
 基于python技术，自行编写代码爬取网络上有关酒店的信息
@@ -41,7 +43,7 @@ python xxx.py -batchsize=10 ......
 
 
 ## 5.FrameWork
-![输入图片说明](image/WaVhwkyQSa8aizfr.jpeg)
+![输入图片说明](/image/WaVhwkyQSa8aizfr.jpeg)
 
 ---
 
