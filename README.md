@@ -66,4 +66,5 @@ python ./named_entity_recognition/test.py
 
 ## 6.结果展示
 可视化结果（图，表格）.......
-
+![图片1](/image/f3dfc05a48c77ed5da3e1f407a70211.png)
+![图片2](/image/759703b6ac7094f58429e0293faf077.png)
