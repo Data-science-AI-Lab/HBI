@@ -41,7 +41,7 @@ python xxx.py -batchsize=10 ......
 
 
 ## 5.FrameWork
-![输入图片说明](/imgs/2022-11-11/WaVhwkyQSa8aizfr.jpeg)
+![输入图片说明](image/WaVhwkyQSa8aizfr.jpeg)
 
 ---
 
