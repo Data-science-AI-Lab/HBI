@@ -48,7 +48,6 @@ python ./named_entity_recognition/test.py
 ## 5.FrameWork
 ![输入图片说明](/image/cc535c1db4788dc8cca8925cce006b0.jpg)
 
----
 
 ### 5.1 数据爬取
 
