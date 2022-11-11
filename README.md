@@ -30,21 +30,20 @@ conda install openpyxl-3.0.9
 
 
 ## 4.代码使用
-1. 将得到的数据集放在代码根目录`HBI\`下
-
-
-2. `named_entity_recognition\test.py`可以实现序列标注
-3. `three_tuple.ipynb`得到评论的三元组
-4. `clustering.ipynb`实现三元组的聚类
-5. `senti_scores.ipynb`实现情感值的计算
+1. 首先安装依赖项`pip install -r requirements.txt`
+2. 将得到的数据集放在代码根目录`HBI/`下
+3. `named_entity_recognition/test.py`可以中文命名实体识别
+4. `three_tuple.ipynb`得到评论的三元组
+5. `clustering.ipynb`实现三元组的聚类
+6. `senti_scores.ipynb`实现情感值的计算
 
 示例
 ```
-git clone xxxxxx
-cd xxxxxx
-python xxx.py -batchsize=10 ......
+git clone https://github.com/Sunzhizheng/HBI.git
+cd HBI
+python ./named_entity_recognition/test.py
 ```
-
+中文命名实体识别的源代码来自[这里](https://github.com/luopeixiang/named_entity_recognition)
 
 ## 5.FrameWork
 ![输入图片说明](/image/cc535c1db4788dc8cca8925cce006b0.jpg)
