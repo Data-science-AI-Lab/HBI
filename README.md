@@ -30,9 +30,13 @@ conda install openpyxl-3.0.9
 
 
 ## 4.代码使用
-1. 在哪下载数据集[]()，数据集放在那个文件夹下
+1. 将得到的数据集放在代码根目录`HBI\`下
 
-2.  运行哪个py文件
+
+2. `named_entity_recognition\test.py`可以实现序列标注
+3. `three_tuple.ipynb`得到评论的三元组
+4. `clustering.ipynb`实现三元组的聚类
+5. `senti_scores.ipynb`实现情感值的计算
 
 示例
 ```
@@ -43,7 +47,7 @@ python xxx.py -batchsize=10 ......
 
 
 ## 5.FrameWork
-![输入图片说明](/image/WaVhwkyQSa8aizfr.jpeg)
+![输入图片说明](/image/cc535c1db4788dc8cca8925cce006b0.jpg)
 
 ---
 
