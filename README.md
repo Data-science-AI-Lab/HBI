@@ -46,7 +46,7 @@ python ./named_entity_recognition/test.py
 中文命名实体识别的源代码来自[这里](https://github.com/luopeixiang/named_entity_recognition)
 
 ## 5.FrameWork
-![输入图片说明](/image/cc535c1db4788dc8cca8925cce006b0.jpg)
+![输入图片说明](/image/cacf9267bfd37832e5de8ed2cb355cb.png)
 
 
 ### 5.1 数据爬取
